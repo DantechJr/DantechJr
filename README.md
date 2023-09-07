@@ -1,4 +1,4 @@
-![Header](./github-header-image (3).png)
+![Header](./githubHeader.png)
 <h1 align="center">Hi 👋, I'm Dante Alcantara Jr.</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 <img
