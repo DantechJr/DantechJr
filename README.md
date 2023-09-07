@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Dante Alcantara Jr.</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 <img
